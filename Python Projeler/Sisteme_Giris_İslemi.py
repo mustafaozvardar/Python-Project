@@ -31,7 +31,7 @@ while True:
             print("-->Sisteme HOŞGELDİNİZ..")
             break
         if hak==0:
-            #Hakkı bittiğinde sisteme girmesini engelledik.
+            #Hakkı bittiğinde sisteme girmesini break(dur) komutu ile engelledik.
             print("Hakkınız Kalmadı..! Girişiniz Engellendi.")
             break
     elif sec==2:
