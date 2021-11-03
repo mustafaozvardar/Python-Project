@@ -1,2 +1,2 @@
 # Python - Projeleri
-##1-Banka Uygulaması
+#1-Banka Uygulaması
